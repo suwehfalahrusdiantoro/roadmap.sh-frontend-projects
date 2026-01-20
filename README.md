@@ -32,7 +32,7 @@ roadmapsh-frontend-projects/
 01. Single-page CV: [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 02. Basic HTML Website: [https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
 
-> The structure may evolve to reflect new topics or tools from the roadmap.
+The structure may evolve to reflect new topics or tools from the roadmap.
 
 ## 🛠️ Technologies Used
 
